@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annacrandall
 - 👀 I’m interested in drawing, going on hikes, and generative art! 
-- (Check me out on Replit)[https://replit.com/@annacrandall]
+- Check me out on Replit [https://replit.com/@annacrandall]
 - 🌱 I’m currently learning JavaScript and Front End Development. 
 - 📫 How to reach me annacrandall59@gmail.com. 
 
