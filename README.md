@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning JavaScript and Front End Development. 
 - 📫 How to reach me annacrandall59@gmail.com. 
 - Check out my other coding spaces: 
-Replit: [https://replit.com/@annacrandall]
-CodePen: [https://codepen.io/annacrandall]
+[Replit](https://replit.com/@annacrandall)
+[CodePen](https://codepen.io/annacrandall)
 
 <!---
 annacrandall/annacrandall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
