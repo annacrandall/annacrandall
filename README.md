@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annacrandall
 - 👀 I’m interested in drawing, going on hikes, and generative art! 
-- 🌱 I’m currently learning JavaScript and Front End Development. 
-- 📫 How to reach me annacrandall59@gmail.com. 
+- 🌱 I’m currently improving my JavaScript skills and learning back end. 
+- 📫 You can reach me at annacrandall59@gmail.com. 
 - Check out my other coding spaces: 
 [Replit](https://replit.com/@annacrandall)
 [CodePen](https://codepen.io/annacrandall)
